@@ -1,3 +1,9 @@
+# Azure Infrastructure Operations Project: Deploying a scalable IaaS web server in Azure
+
+# Introduction
+For this project, you will write a Packer template and a Terraform template to deploy a customizable, scalable web server in Azure.
+
+
 # Getting Started
 
 We will try to explain how we will use the Packer to create a VM image from a WEB server, and also how to distribute the image in the Azure cloud with TerraForm. Let's divide into two topics:
